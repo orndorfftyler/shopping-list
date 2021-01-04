@@ -1,6 +1,6 @@
 # Shopping List App Challenge
 
-[Shopping List App](https://orndorfftyler.github.io/shopping-list/).
+[Shopping List App](https://orndorfftyler.github.io/shopping-list/)
 
 For this project, I was given HTML and CSS files describing a static shopping list. I wrote some jQuery to allow the user to add new items, delete old items, and "check" items. 
 
